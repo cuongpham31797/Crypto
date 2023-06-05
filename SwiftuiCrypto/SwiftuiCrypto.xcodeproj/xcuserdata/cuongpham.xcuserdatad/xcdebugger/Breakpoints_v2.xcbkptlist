@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "63AF5071-87C3-4E3A-819C-A7FF2F769F71"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD20C537-A320-4907-B5A5-1243583F0E10"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "173CCEA9-AD8A-4EE5-8BDB-1B33B0C0505E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/LocalFileManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "saveImage(image:imageName:folderName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DAC03989-C694-43D8-8407-3E90EB3605D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/LocalFileManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "saveImage(image:imageName:folderName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D8595EB-4F26-4D4F-8BAE-277E3E68BB42"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/LocalFileManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "createFolderifNeeded(folderName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2D8595EB-4F26-4D4F-8BAE-277E3E68BB42 - 237b43d1d96eeb7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.LocalFileManager.createFolderifNeeded(folderName: Swift.String) -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Utilities/LocalFileManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1540">
+               </Location>
+               <Location
+                  uuid = "2D8595EB-4F26-4D4F-8BAE-277E3E68BB42 - 237b43d1d96eeb7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.LocalFileManager.createFolderifNeeded(folderName: Swift.String) -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Utilities/LocalFileManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1644">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E23F7F45-FDF1-46B2-A29F-775C9E18833B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/LocalFileManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "createFolderifNeeded(folderName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E23F7F45-FDF1-46B2-A29F-775C9E18833B - 237b43d1d96eeaa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.LocalFileManager.createFolderifNeeded(folderName: Swift.String) -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Utilities/LocalFileManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "2144">
+               </Location>
+               <Location
+                  uuid = "E23F7F45-FDF1-46B2-A29F-775C9E18833B - 237b43d1d96eeaa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.LocalFileManager.createFolderifNeeded(folderName: Swift.String) -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Utilities/LocalFileManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "2248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AFFBDC1-4ABC-44DD-A258-32EBB6BFECE2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/LocalFileManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "createFolderifNeeded(folderName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A08F24CA-A41D-4CC6-BC24-6A215FDF4E3F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/LocalFileManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "createFolderifNeeded(folderName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F4EACF5-9E7C-4D5D-B0FF-CB52DEF6BBC3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/LocalFileManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "getURLForFolder(folderName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "673642DE-E4A0-4DEE-B6BD-1B1C0D29173E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/LocalFileManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "getURLForImage(imageName:folderName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C339A33-C902-4DB2-B775-5CB97ED689DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/LocalFileManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "saveImage(image:imageName:folderName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C889AFD0-5033-4AD8-B8D1-326302C99FF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/LocalFileManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "createFolderifNeeded(folderName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1313FD57-55AF-4C47-A58F-001025651394"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/LocalFileManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "getURLForFolder(folderName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A874135F-1B18-45F0-9941-90B4F7164322"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/LocalFileManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "saveImage(image:imageName:folderName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "745149A7-744D-41CF-833F-7948B8486761"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/LocalFileManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "createFolderifNeeded(folderName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D90A9407-AEF1-43AD-B043-65DD76F1DB6A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/LocalFileManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "createFolderifNeeded(folderName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55565454-D3E7-4538-BC1C-4C39E9129E7A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/LocalFileManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "createFolderifNeeded(folderName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62BD2BB0-3A5C-4835-ABB4-C61F2FCB90BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "addSubscribers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "62BD2BB0-3A5C-4835-ABB4-C61F2FCB90BA - b5627bbd8cfd9e4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;) -&gt; () in SwiftuiCrypto.HomeViewModel.addSubscribers() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "62BD2BB0-3A5C-4835-ABB4-C61F2FCB90BA - b5627bbd8cfd9e4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;) -&gt; () in SwiftuiCrypto.HomeViewModel.addSubscribers() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "62BD2BB0-3A5C-4835-ABB4-C61F2FCB90BA - ba5d21f9523177cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 (Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;) -&gt; () in SwiftuiCrypto.HomeViewModel.addSubscribers() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9795A8FC-236C-4D36-9BE7-DEC78860C860"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Service/MarketDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getMarketData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9795A8FC-236C-4D36-9BE7-DEC78860C860 - eb354993fc83ffa6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftuiCrypto.MarketDataModel) -&gt; () in SwiftuiCrypto.MarketDataService.getMarketData() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Service/MarketDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "9795A8FC-236C-4D36-9BE7-DEC78860C860 - eb354993fc83ffa6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftuiCrypto.MarketDataModel) -&gt; () in SwiftuiCrypto.MarketDataService.getMarketData() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Service/MarketDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "9795A8FC-236C-4D36-9BE7-DEC78860C860 - eb354993fc83ffa6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftuiCrypto.MarketDataModel) -&gt; () in SwiftuiCrypto.MarketDataService.getMarketData() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Service/MarketDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "9795A8FC-236C-4D36-9BE7-DEC78860C860 - eb354993fc83ffa6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftuiCrypto.MarketDataModel) -&gt; () in SwiftuiCrypto.MarketDataService.getMarketData() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Service/MarketDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "9795A8FC-236C-4D36-9BE7-DEC78860C860 - 4e04de22951a24e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftuiCrypto.GlobalData) -&gt; () in SwiftuiCrypto.MarketDataService.getMarketData() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Service/MarketDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FAA66A8-DA05-4287-9A5B-DF36454B0429"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Service/MarketDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getMarketData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3DA1A5B-3D8A-4AE8-B2A3-8EC6AC8F336B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "handleURLResponse(output:url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3DA1A5B-3D8A-4AE8-B2A3-8EC6AC8F336B - 7f0d92ebddafeac3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.NetworkingManager.handleURLResponse(output: (data: Foundation.Data, response: __C.NSURLResponse), url: Foundation.URL) throws -&gt; Foundation.Data"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Utilities/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "544">
+               </Location>
+               <Location
+                  uuid = "A3DA1A5B-3D8A-4AE8-B2A3-8EC6AC8F336B - 7f0d92ebddafeac3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.NetworkingManager.handleURLResponse(output: (data: Foundation.Data, response: __C.NSURLResponse), url: Foundation.URL) throws -&gt; Foundation.Data"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Utilities/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  uuid = "A3DA1A5B-3D8A-4AE8-B2A3-8EC6AC8F336B - 7f0d92ebddafeae4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.NetworkingManager.handleURLResponse(output: (data: Foundation.Data, response: __C.NSURLResponse), url: Foundation.URL) throws -&gt; Foundation.Data"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Utilities/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "544">
+               </Location>
+               <Location
+                  uuid = "A3DA1A5B-3D8A-4AE8-B2A3-8EC6AC8F336B - 7f0d92ebddafeae4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.NetworkingManager.handleURLResponse(output: (data: Foundation.Data, response: __C.NSURLResponse), url: Foundation.URL) throws -&gt; Foundation.Data"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Utilities/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "680">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48247A31-3F54-4ED2-B2D8-56FE016750DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "handleURLResponse(output:url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ADFB941-9F26-4518-88BC-27023CC69B5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "handleCompletion(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFD8EF25-7BB3-401C-B290-85E7F918EC55"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Utilities/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "handleCompletion(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66AC3AA6-6BD9-4355-A536-68F745A42AC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Models/MarketDataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
+            landmarkName = "btcDominance"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "66AC3AA6-6BD9-4355-A536-68F745A42AC6 - 6a4bff85b99c5b79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.btcDominance.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "66AC3AA6-6BD9-4355-A536-68F745A42AC6 - 6a4bff85b99c5b79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.btcDominance.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "66AC3AA6-6BD9-4355-A536-68F745A42AC6 - 6a4bff85b99c5c1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.btcDominance.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBE79845-45D0-4A3F-8B60-E0CCB6C19C7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Models/MarketDataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "208"
+            endingLineNumber = "208"
+            landmarkName = "btcDominance"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EBE79845-45D0-4A3F-8B60-E0CCB6C19C7D - 6a4bff85b99c5b37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.btcDominance.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "EBE79845-45D0-4A3F-8B60-E0CCB6C19C7D - 6a4bff85b99c5b37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.btcDominance.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "EBE79845-45D0-4A3F-8B60-E0CCB6C19C7D - 6a4bff85b99c5cdc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.btcDominance.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "208"
+                  endingLineNumber = "208"
+                  offsetFromSymbolStart = "416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEA5165F-9344-447D-8F81-2548EC62DA73"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Models/MarketDataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "volume"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EEA5165F-9344-447D-8F81-2548EC62DA73 - 12a3c32a10ae8956"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.volume.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "EEA5165F-9344-447D-8F81-2548EC62DA73 - 12a3c32a10ae8956"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.volume.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "EEA5165F-9344-447D-8F81-2548EC62DA73 - 12a3c32a10ae888b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.volume.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "660">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6361A2BD-4A66-474E-A67B-E3DBB0DE1AD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Models/MarketDataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "volume"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6361A2BD-4A66-474E-A67B-E3DBB0DE1AD9 - 12a3c32a10ae8928"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.volume.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "6361A2BD-4A66-474E-A67B-E3DBB0DE1AD9 - 12a3c32a10ae8928"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.volume.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "6361A2BD-4A66-474E-A67B-E3DBB0DE1AD9 - 12a3c32a10ae884d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.volume.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "199"
+                  endingLineNumber = "199"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41B64DE6-8BB0-454C-BE05-CFB1A7A361B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Models/MarketDataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "marketCap"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "41B64DE6-8BB0-454C-BE05-CFB1A7A361B2 - 1474d30c4167bf52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.marketCap.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "199"
+                  endingLineNumber = "199"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "41B64DE6-8BB0-454C-BE05-CFB1A7A361B2 - 1474d30c4167bf52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.marketCap.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "199"
+                  endingLineNumber = "199"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "41B64DE6-8BB0-454C-BE05-CFB1A7A361B2 - 1474d30c4167bcfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.marketCap.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "660">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB379327-45C8-4CAD-A797-42D9F1DA9B54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Models/MarketDataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "marketCap"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DB379327-45C8-4CAD-A797-42D9F1DA9B54 - 1474d30c4167bf10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.marketCap.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "DB379327-45C8-4CAD-A797-42D9F1DA9B54 - 1474d30c4167bf10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.marketCap.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "DB379327-45C8-4CAD-A797-42D9F1DA9B54 - 1474d30c4167bcbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.MarketDataModel.marketCap.getter : Swift.String"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Models/MarketDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C68AA6E0-F447-4FA5-9024-ADAA033F1493"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "mapGlobalMarketData(marketDataModel:portfolioCoins:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C68AA6E0-F447-4FA5-9024-ADAA033F1493 - 3f9d9354b078fa27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.HomeViewModel.mapGlobalMarketData(marketDataModel: Swift.Optional&lt;SwiftuiCrypto.MarketDataModel&gt;, portfolioCoins: Swift.Array&lt;SwiftuiCrypto.CoinModel&gt;) -&gt; Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "C68AA6E0-F447-4FA5-9024-ADAA033F1493 - 3f9d9354b078fa27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.HomeViewModel.mapGlobalMarketData(marketDataModel: Swift.Optional&lt;SwiftuiCrypto.MarketDataModel&gt;, portfolioCoins: Swift.Array&lt;SwiftuiCrypto.CoinModel&gt;) -&gt; Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "920">
+               </Location>
+               <Location
+                  uuid = "C68AA6E0-F447-4FA5-9024-ADAA033F1493 - 3f9d9354b078f3d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.HomeViewModel.mapGlobalMarketData(marketDataModel: Swift.Optional&lt;SwiftuiCrypto.MarketDataModel&gt;, portfolioCoins: Swift.Array&lt;SwiftuiCrypto.CoinModel&gt;) -&gt; Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "920">
+               </Location>
+               <Location
+                  uuid = "C68AA6E0-F447-4FA5-9024-ADAA033F1493 - 3f9d9354b078f3d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.HomeViewModel.mapGlobalMarketData(marketDataModel: Swift.Optional&lt;SwiftuiCrypto.MarketDataModel&gt;, portfolioCoins: Swift.Array&lt;SwiftuiCrypto.CoinModel&gt;) -&gt; Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "908">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78F632AC-109B-4F46-86F9-065A866E3CAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "mapGlobalMarketData(marketDataModel:portfolioCoins:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "78F632AC-109B-4F46-86F9-065A866E3CAC - 3492bef8464b2d0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SwiftuiCrypto.CoinModel) -&gt; Swift.Double in SwiftuiCrypto.HomeViewModel.mapGlobalMarketData(marketDataModel: Swift.Optional&lt;SwiftuiCrypto.MarketDataModel&gt;, portfolioCoins: Swift.Array&lt;SwiftuiCrypto.CoinModel&gt;) -&gt; Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "78F632AC-109B-4F46-86F9-065A866E3CAC - 3492bef8464b2d0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SwiftuiCrypto.CoinModel) -&gt; Swift.Double in SwiftuiCrypto.HomeViewModel.mapGlobalMarketData(marketDataModel: Swift.Optional&lt;SwiftuiCrypto.MarketDataModel&gt;, portfolioCoins: Swift.Array&lt;SwiftuiCrypto.CoinModel&gt;) -&gt; Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "78F632AC-109B-4F46-86F9-065A866E3CAC - 3492bef8464b2246"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SwiftuiCrypto.CoinModel) -&gt; Swift.Double in SwiftuiCrypto.HomeViewModel.mapGlobalMarketData(marketDataModel: Swift.Optional&lt;SwiftuiCrypto.MarketDataModel&gt;, portfolioCoins: Swift.Array&lt;SwiftuiCrypto.CoinModel&gt;) -&gt; Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70ACC377-B893-4492-AA66-112C620AE5A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "mapGlobalMarketData(marketDataModel:portfolioCoins:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70ACC377-B893-4492-AA66-112C620AE5A8 - 3492bef8464b2d6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SwiftuiCrypto.CoinModel) -&gt; Swift.Double in SwiftuiCrypto.HomeViewModel.mapGlobalMarketData(marketDataModel: Swift.Optional&lt;SwiftuiCrypto.MarketDataModel&gt;, portfolioCoins: Swift.Array&lt;SwiftuiCrypto.CoinModel&gt;) -&gt; Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "70ACC377-B893-4492-AA66-112C620AE5A8 - 3492bef8464b2d4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SwiftuiCrypto.CoinModel) -&gt; Swift.Double in SwiftuiCrypto.HomeViewModel.mapGlobalMarketData(marketDataModel: Swift.Optional&lt;SwiftuiCrypto.MarketDataModel&gt;, portfolioCoins: Swift.Array&lt;SwiftuiCrypto.CoinModel&gt;) -&gt; Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64184BA8-6132-416C-818D-C795075F1E2C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Service/CoinDetailDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getCoinsDeatils()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D751A2AE-A21A-4D4A-AFFC-2F8A196499E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Core/Detail/ViewModel/DetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "addSubscribers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D751A2AE-A21A-4D4A-AFFC-2F8A196499E6 - f614d1d5e003958e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;SwiftuiCrypto.CoinDetailModel&gt;) -&gt; () in SwiftuiCrypto.DetailViewModel.addSubscribers() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Detail/ViewModel/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2744">
+               </Location>
+               <Location
+                  uuid = "D751A2AE-A21A-4D4A-AFFC-2F8A196499E6 - f614d1d5e003958e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;SwiftuiCrypto.CoinDetailModel&gt;) -&gt; () in SwiftuiCrypto.DetailViewModel.addSubscribers() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Detail/ViewModel/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1400">
+               </Location>
+               <Location
+                  uuid = "D751A2AE-A21A-4D4A-AFFC-2F8A196499E6 - b55963b93a52ba8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 ((overview: Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;, additional: Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;)) -&gt; () in SwiftuiCrypto.DetailViewModel.addSubscribers() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Detail/ViewModel/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "D751A2AE-A21A-4D4A-AFFC-2F8A196499E6 - 241c7c72e70b0a42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 ((overview: Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;, additional: Swift.Array&lt;SwiftuiCrypto.StatisticModel&gt;)) -&gt; () in SwiftuiCrypto.DetailViewModel.addSubscribers() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Detail/ViewModel/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C661C960-194B-4AED-972E-1BB52548E382"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Core/Detail/ViewModel/DetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "init(coin:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C661C960-194B-4AED-972E-1BB52548E382 - 465b2a4d07a20909"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.DetailViewModel.init(coin: SwiftuiCrypto.CoinModel) -&gt; SwiftuiCrypto.DetailViewModel"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Detail/ViewModel/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "C661C960-194B-4AED-972E-1BB52548E382 - 465b2a4d07a208ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.DetailViewModel.init(coin: SwiftuiCrypto.CoinModel) -&gt; SwiftuiCrypto.DetailViewModel"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Detail/ViewModel/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "C661C960-194B-4AED-972E-1BB52548E382 - 465b2a4d07a20801"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftuiCrypto.DetailViewModel.init(coin: SwiftuiCrypto.CoinModel) -&gt; SwiftuiCrypto.DetailViewModel"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Detail/ViewModel/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "608">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86F77EC8-548E-424E-AC7B-9E4AE4D23C97"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftuiCrypto/Core/Detail/ViewModel/DetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "addSubscribers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "86F77EC8-548E-424E-AC7B-9E4AE4D23C97 - 5379550e0539b935"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Never&gt;) -&gt; () in SwiftuiCrypto.DetailViewModel.addSubscribers() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Detail/ViewModel/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "86F77EC8-548E-424E-AC7B-9E4AE4D23C97 - f614d1d5e00395cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;SwiftuiCrypto.CoinDetailModel&gt;) -&gt; () in SwiftuiCrypto.DetailViewModel.addSubscribers() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Detail/ViewModel/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1236">
+               </Location>
+               <Location
+                  uuid = "86F77EC8-548E-424E-AC7B-9E4AE4D23C97 - 5379550e0539b935"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Never&gt;) -&gt; () in SwiftuiCrypto.DetailViewModel.addSubscribers() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Detail/ViewModel/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "86F77EC8-548E-424E-AC7B-9E4AE4D23C97 - c94bd683d840ebb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Never&gt;) -&gt; () in SwiftuiCrypto.DetailViewModel.addSubscribers() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Detail/ViewModel/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "86F77EC8-548E-424E-AC7B-9E4AE4D23C97 - 5379550e0539ba43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Never&gt;) -&gt; () in SwiftuiCrypto.DetailViewModel.addSubscribers() -&gt; ()"
+                  moduleName = "SwiftuiCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongpham/Desktop/Demo_App/SwiftuiCrypto/SwiftuiCrypto/Core/Detail/ViewModel/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
